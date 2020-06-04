@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{141:function(e){e.exports=JSON.parse('{"docsSidebars":{"someSidebar":[{"type":"category","label":"FZTH","items":[{"type":"link","label":"Overview","href":"/docs/readme"}]}]},"permalinkToSidebar":{"/docs/readme":"someSidebar"},"isHomePage":true,"homePagePath":"/docs/readme"}')}}]);
