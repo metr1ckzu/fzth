@@ -2,7 +2,7 @@ module.exports = {
   title: 'From zero to hero',
   tagline: 'PaaS for IT learning? wut',
   url: 'https://metr1ckzu.github.io',
-  baseUrl: '/fzth',
+  baseUrl: '/fzth/',
   favicon: 'img/favicon.ico',
   organizationName: 'metr1ckzu', // Usually your GitHub org/user name.
   projectName: 'fzth', // Usually your repo name.
